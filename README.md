@@ -5,7 +5,7 @@
 
 ## How to use
 
-pythonの仮想環境下でこのao_okamoto_grade_the_exams.pyを保存します。
+pythonの仮想環境下でこの**ao_okamoto_grade_the_exams.py**を保存します。
 他のpython codeと近い場所に保存することを推奨します。
 （またはpython passを繋ぐとよいです。）
 
