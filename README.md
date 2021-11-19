@@ -49,8 +49,19 @@ Allocationpoints = [4, -1, 0]  #[correct answer, incorrect, empty]
 ```
 
 ### Basic statistic
-クラス全体の**基本統計量Basic statistic**もclass+number+describe.txt保存されます。
+クラス全体の**基本統計量Basic statistic**もclass+number+describe.txtに保存されます。
 必要ない場合は以下の該当するスクリプトをコメントアウトすることで出力させないこともできます。
+この出力ファイルには以下の値が含まれます。
+
+回答数
+平均点
+標準偏差
+最低点
+25%値
+中央値
+75%値
+最高点
+
 
 #### Examples
 ```
